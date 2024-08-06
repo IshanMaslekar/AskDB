@@ -12,7 +12,10 @@ Organizations often struggle with efficiently accessing and understanding client
 #### Objective
 Develop a chat interface that leverages a Large Language Model (LLM) to read and interpret client data from an internal database. This interface will enable organization members to query the database and receive accurate, contextually relevant responses about the data.
 
-![AI-Powered Data Query Interface](![image](https://github.com/user-attachments/assets/addbe7bd-2e48-4c17-afab-679e996df9a7))
+
+
+![image](https://github.com/user-attachments/assets/3f600e82-903a-43d2-9d51-e255696d798a)
+
 
 
 ### Natural Language to SQL Conversion
@@ -23,8 +26,9 @@ Users can input natural language questions regarding the data in their uploaded 
 - Question: "Which city has the most vehicles listed in the table?"
 - Generated SQL Query: `SELECT city, COUNT(*) as vehicle_count FROM vehicles GROUP BY city ORDER BY vehicle_count DESC LIMIT 1;`
 
-![Natural Language to SQL Conversion](![image](https://github.com/user-attachments/assets/7399ed75-2ade-4d82-8f0e-86fa6713faad)
-)
+
+![image](https://github.com/user-attachments/assets/7ffcd576-32ba-456a-ad39-3e05ed2c89b6)
+
 
 ### Enter Files
 
@@ -37,8 +41,9 @@ Users can enter multiple CSV or Excel Files.
 
 For transparency, the generated SQL queries are displayed to the user. This helps users understand how their natural language questions are being interpreted by the system.
 
-![SQL Query Display](![image](https://github.com/user-attachments/assets/68b10117-be1b-4cc8-a6dc-286ca9a6398d)
-)
+
+![image](https://github.com/user-attachments/assets/7e47a6f0-612f-434c-92f6-f82c86934b95)
+
 
 
 
@@ -46,14 +51,16 @@ For transparency, the generated SQL queries are displayed to the user. This help
 
 The application maintains a history of all queries executed by the user for easy reference and repeated use. Users can view and re-execute previous queries without having to re-enter them.
 
-![Query History](![image](https://github.com/user-attachments/assets/25d6b060-5460-4cc7-8bbc-1b7814c4ed07)
-)
+
+![image](https://github.com/user-attachments/assets/2236331a-f35d-4b1c-9aa1-a422854c6d08)
+
 
 ### Multilingual Support
 
 To cater to a diverse user base, the application supports multiple languages for both input and output. Users can select their preferred language, making the application accessible to non-English speakers.
 
-![Multilingual Support](![image](https://github.com/user-attachments/assets/17dc9c80-6241-424f-8440-f90d57fe2244))
+
+![image](https://github.com/user-attachments/assets/3383fe5b-3e04-4be7-baef-7aec0317b883)
 
 
 
@@ -64,4 +71,6 @@ The application includes a section dedicated to visualizing the data. It support
 - **Seaborn** for advanced bar plots
 - **Plotly** for interactive bar plots
 
-![Data Visualizations](![image](https://github.com/user-attachments/assets/a3941ed1-7dd0-45a6-95b4-e2a0057b7ac2))
+
+![image](https://github.com/user-attachments/assets/2e48d4fa-29f4-4b31-b751-28f636faa5ba)
+
