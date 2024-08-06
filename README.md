@@ -12,7 +12,7 @@ Organizations often struggle with efficiently accessing and understanding client
 #### Objective
 Develop a chat interface that leverages a Large Language Model (LLM) to read and interpret client data from an internal database. This interface will enable organization members to query the database and receive accurate, contextually relevant responses about the data.
 
-<img src="https://github.com/user-attachments/assets/3f600e82-903a-43d2-9d51-e255696d798a" alt="AI-Powered Data Query Interface" width="400">
+![image](https://github.com/user-attachments/assets/46912afc-7f9f-40ff-baa2-0f83c5c1dd2e)
 
 ### Natural Language to SQL Conversion
 
@@ -55,7 +55,8 @@ The application includes a section dedicated to visualizing the data. It support
 - **Seaborn** for advanced bar plots
 - **Plotly** for interactive bar plots
 
-<img src="https://github.com/user-attachments/asse
+<img src="https://github.com/user-attachments/assets/2e48d4fa-29f4-4b31-b751-28f636faa5ba" alt="Data Visualizations" width="400">
+
 
 
 
