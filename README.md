@@ -76,3 +76,33 @@ The application includes a section dedicated to visualizing the data. It support
 
 ![image](https://github.com/user-attachments/assets/2e48d4fa-29f4-4b31-b751-28f636faa5ba)
 
+
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/llm-web-app.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd llm-web-app
+
+3. **Create a virtual environment**:
+   ```bash
+   python -m venv env
+
+4. **Activate the virtual environment**:
+   ```bash
+   .\env\Scripts\activate
+5. **Install the required packages**:
+   ```bash
+   pip install -r requirements.txt
+6. **Run the application**:
+   ```bash
+   streamlit run app.py
+
+   
+
