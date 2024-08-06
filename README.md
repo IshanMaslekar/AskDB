@@ -1,4 +1,4 @@
-# LLM Web App
+# AskDB LLM Web App
 
 This project is a web application that leverages a Large Language Model (LLM) to convert natural language questions into SQL queries, execute them on an SQLite3 database, and provide answers along with various features to enhance user experience.
 
@@ -53,8 +53,8 @@ The application maintains a history of all queries executed by the user for easy
 
 To cater to a diverse user base, the application supports multiple languages for both input and output. Users can select their preferred language, making the application accessible to non-English speakers.
 
-![Multilingual Support](![image](https://github.com/user-attachments/assets/4d6a72ea-de00-4d1d-9755-267634c873fa)
-)
+![Multilingual Support](![image](https://github.com/user-attachments/assets/17dc9c80-6241-424f-8440-f90d57fe2244))
+
 
 
 ### Data Visualizations
@@ -64,5 +64,4 @@ The application includes a section dedicated to visualizing the data. It support
 - **Seaborn** for advanced bar plots
 - **Plotly** for interactive bar plots
 
-![Data Visualizations](![image](https://github.com/user-attachments/assets/a3941ed1-7dd0-45a6-95b4-e2a0057b7ac2)
-)
+![Data Visualizations](![image](https://github.com/user-attachments/assets/a3941ed1-7dd0-45a6-95b4-e2a0057b7ac2))
