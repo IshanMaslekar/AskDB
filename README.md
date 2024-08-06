@@ -6,12 +6,6 @@ This project is a web application that leverages a Large Language Model (LLM) to
 
 ### AI-Powered Data Query Interface
 
-#### Problem Statement
-Organizations often struggle with efficiently accessing and understanding client data stored in internal databases. Traditional methods of data retrieval and analysis can be time-consuming and cumbersome, leading to delays in decision-making and inefficiencies in client management. There is a need for a streamlined and intuitive solution that allows organization members to query and receive timely, accurate insights from the database through a user-friendly interface.
-
-#### Objective
-Develop a chat interface that leverages a Large Language Model (LLM) to read and interpret client data from an internal database. This interface will enable organization members to query the database and receive accurate, contextually relevant responses about the data.
-
 ![image](https://github.com/user-attachments/assets/46912afc-7f9f-40ff-baa2-0f83c5c1dd2e)
 
 ### Natural Language to SQL Conversion
