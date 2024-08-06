@@ -34,7 +34,9 @@ Users can input natural language questions regarding the data in their uploaded 
 
 Users can enter multiple CSV or Excel Files.
 
-![Entering Files](![image](https://github.com/user-attachments/assets/cdc170fa-dc2b-4b48-861d-6ab9ec6bc4ec)
+
+![image](https://github.com/user-attachments/assets/14363708-5524-4639-9be9-2d1084b11889)
+
 
 
 ### SQL Query Display
